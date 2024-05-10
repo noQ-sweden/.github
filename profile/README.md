@@ -47,6 +47,7 @@ Innan du stänger din user-story helt bör relevant dokumentation finns tillgän
 
 # Ytterligare resurser
 [Onboardinglistan](https://sites.google.com/noq.nu/intranet/onboarding?authuser=4)
+[Sprint board](https://github.com/orgs/noQ-sweden/projects/2)
 
 <!--
 
