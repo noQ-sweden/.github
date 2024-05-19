@@ -1,4 +1,4 @@
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff) ![TailwinCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss) ![Static Badge](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge&logo=github) 
 # Introduction
 
 noQ startade 2017 som en dålig smak i munnen när Ove som inhyrd konsult på Stockholms stad skulle utreda faktureringsrutiner för hemlösa. Han fick inte bara se hur faktureringen kunde förbättras men träffade framför allt många hemlösa, härbärgen och administratörer som alla led av det obefintliga samarbetet.
@@ -17,6 +17,12 @@ Vi tror att en IT-lösning för sovplatser kan förenkla för
 Då noQ har en hög omsättning av deltagare så har vi beslutat att använda en begränsad tech-stack. För front-end använder vi oss av [React](https://github.com/facebook/react) och för back-end använder vi oss av [Python](https://www.python.org/). Om en database behöver användas i någon av våra tjänster så använder vi [PostgreSQL](https://www.postgresql.org/).
 
 Vi förutsätter att alla tjänster som byggs också innehåller stöd för att paketeras som en container bild och som är kompatibel med Kubernetes.
+
+## Frontend 
+https://github.com/noQ-sweden/noQ-Frontend
+
+## Backend
+https://github.com/noQ-sweden/noq_backend_python
 
 # Infrastruktur
 
