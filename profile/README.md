@@ -19,12 +19,12 @@ Då noQ har en hög omsättning av deltagare så har vi beslutat att använda en
 Vi förutsätter att alla tjänster som byggs också innehåller stöd för att paketeras som en container bild och som är kompatibel med Kubernetes.
 
 ## Frontend 
-https://github.com/noQ-sweden/noQ-Frontend
-[Frontend wiki](https://github.com/noQ-sweden/noQ-Frontend/wiki)
+* https://github.com/noQ-sweden/noQ-Frontend  
+* [Frontend wiki](https://github.com/noQ-sweden/noQ-Frontend/wiki)
 
 ## Backend
-https://github.com/noQ-sweden/noq_backend_python
-[Backend wiki](https://github.com/noQ-sweden/noq_backend_python/wiki)
+* https://github.com/noQ-sweden/noq_backend_python
+* [Backend wiki](https://github.com/noQ-sweden/noq_backend_python/wiki)
 
 # Infrastruktur
 
