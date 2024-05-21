@@ -51,6 +51,9 @@ Vi använder oss av ett enkelt arbetsflöde när det kommer til GitHub. `GitHub 
 
 Innan du stänger din user-story helt bör relevant dokumentation finns tillgänglig i den Wiki på GitHub som hör till repot som du arbetar med.
 
+# Licens
+
+Denna programvara är licensierad under GPLv3-licens.
 <!--
 
 **Here are some ideas to get you started:**
