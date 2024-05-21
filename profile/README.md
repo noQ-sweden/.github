@@ -51,6 +51,10 @@ Vi använder oss av ett enkelt arbetsflöde när det kommer til GitHub. `GitHub 
 
 Innan du stänger din user-story helt bör relevant dokumentation finns tillgänglig i den Wiki på GitHub som hör till repot som du arbetar med.
 
+# Ytterligare resurser
+* [Onboardinglistan](https://sites.google.com/noq.nu/intranet/onboarding?authuser=4)
+* [Sprint board](https://github.com/orgs/noQ-sweden/projects/2)
+
 # Licens
 
 Denna programvara är licensierad under GPLv3-licens.
