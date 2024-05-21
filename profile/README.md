@@ -24,6 +24,7 @@ https://github.com/noQ-sweden/noQ-Frontend
 
 ## Backend
 https://github.com/noQ-sweden/noq_backend_python
+[Backend wiki](https://github.com/noQ-sweden/noq_backend_python/wiki)
 
 # Infrastruktur
 
@@ -56,6 +57,9 @@ Innan du stänger din user-story helt bör relevant dokumentation finns tillgän
 * [Onboardinglistan](https://sites.google.com/noq.nu/intranet/onboarding?authuser=4)
 * [Sprint board](https://github.com/orgs/noQ-sweden/projects/2)
 
+* [NoQ Gdrive](https://drive.google.com/drive/u/4/folders/0AMM3_DdwRBxdUk9PVA)
+* [Playbook](https://docs.google.com/document/d/17LZmzDUgBQ5rqw2-4AefdlqfYGZgLuLt/edit?usp=drive_link&ouid=102102890629094286640&rtpof=true&sd=true)
+  
 # Licens
 
 Denna programvara är licensierad under GPLv3-licens.
