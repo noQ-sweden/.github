@@ -20,6 +20,7 @@ Vi förutsätter att alla tjänster som byggs också innehåller stöd för att 
 
 ## Frontend 
 https://github.com/noQ-sweden/noQ-Frontend
+[Frontend wiki](https://github.com/noQ-sweden/noQ-Frontend/wiki)
 
 ## Backend
 https://github.com/noQ-sweden/noq_backend_python
