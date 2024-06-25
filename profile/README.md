@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff) ![TailwinCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss) ![Static Badge](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge&logo=github) 
 # Introduction
 
-noQ startade 2017 som en dålig smak i munnen när Ove som inhyrd konsult på Stockholms stad skulle utreda faktureringsrutiner för hemlösa. Han fick inte bara se hur faktureringen kunde förbättras men träffade framför allt många hemlösa, härbärgen och administratörer som alla led av det obefintliga samarbetet.
+noQ startade 2017 när Ove Holmberg som inhyrd konsult på Stockholms stad skulle utreda faktureringsrutiner för hemlösa. Han fick inte bara se hur faktureringen kunde förbättras men träffade framför allt många hemlösa, härbärgen och administratörer som alla led av det obefintliga samarbetet. noQ är en ideell tech-for-good förening där alla jobbar ideellt och strävar efter att hjälpa hemlösa och utsatta människor. Med ett dedikerat team på över 20 medarbetare över hela Sverige arbetar vi för att erbjuda innovativa IT-tjänster för att ta itu med utmaningarna kring utsatthet. Vårt huvudsakliga fokus just nu är att underlätta för akut hemlösa i Stockholm att hitta tak över huvudet för natten. En sideffekt av vårat arbete är att vi tillhandahåller gratis utbildning och praktik för våra volontärer och på sikt en god referens vid arbetssökande.
 
 Vi tror att en IT-lösning för sovplatser kan förenkla för
 
