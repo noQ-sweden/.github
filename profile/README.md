@@ -58,7 +58,7 @@ Innan du stänger din user-story helt bör relevant dokumentation finns tillgän
 * [Sprint board](https://github.com/orgs/noQ-sweden/projects/2)
 
 * [NoQ Gdrive](https://drive.google.com/drive/u/4/folders/0AMM3_DdwRBxdUk9PVA)
-* [Playbook](https://docs.google.com/document/d/17LZmzDUgBQ5rqw2-4AefdlqfYGZgLuLt)
+* [Playbook](https://docs.google.com/document/d/1ou6wr1sI9IJZaGGSMn_SJvFru5FJQKMDRZY16kBmx5Y/edit#heading=h.j9n7dlnbogsw)
   
 # Licens
 
